@@ -1,0 +1,113 @@
+body{
+    background-color: black
+}
+
+header{
+    background-color: black;
+}
+
+ul{
+    list-style: none;
+    margin: auto;
+    padding: 20px;
+}
+
+a{
+    font-size: 40px;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(190, 102, 129);
+    text-decoration: none;
+}
+
+li{
+    display: inline;
+}
+
+.logo-holder{
+    width: 120px;
+    height: 100px;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding: auto;
+
+}
+
+.logo{
+    width: 200px;
+    margin-right: 100px;
+    padding-left: 20px;
+}
+
+
+
+.paralax{
+    background-image: url("img/bts\ blackswan.jpeg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content{
+
+    background-color: black
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(4, 0, 17);
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+
+
+}
+footer a{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    padding: 50px;
+    text-decoration: none;
+}
+li{
+    display: inline;
+}
+
+.conteyner{
+    background-color: black;
+    margin: 40px 100px 40px 0;
+    padding-left: 20px;
+
+}
+
+.bts{
+    margin-left: 115px;
+   width: 300px;
+   height: 300px;
+}
+.bts-f{
+    margin-left: 115px;
+    width: 300px;
+    height: 300px;
+}
+
+
+.swan{
+    margin-left: 115px;
+    width: 300px;
+    height: 300px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+
